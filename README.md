@@ -1,4 +1,4 @@
-<h1 align="center">Laura Félix 🌸</h1>
+<h1 align="center">Laura Félix</h1>
 <p align="center">
   👩‍💻 Estudante de Desenvolvimento de Software e Multiplataforma <br/>
 </p>
