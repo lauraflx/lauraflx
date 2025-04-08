@@ -1,7 +1,8 @@
 <div align="center">
-<img scr="https://i.pinimg.com/originals/3b/5c/1d/3b5c1d5b76f74f9dacbf254610982168.gif" width="25px"> <h1> Laura Félix </h1>
+  <img src="https://i.pinimg.com/originals/3b/5c/1d/3b5c1d5b76f74f9dacbf254610982168.gif" width="100px"> 
+  <h1> Laura Félix </h1>
   👩‍💻 Estudante de Desenvolvimento de Software e Multiplataforma <br/>
-</p>
+</div>
 
 ---
 
