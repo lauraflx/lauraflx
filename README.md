@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/0a/61/8b/0a618be1fff86c863e2d558571bfc899.gif" px="70"> <h1 align="center">Laura Félix</h1>
+<img src="https://i.pinimg.com/originals/0a/61/8b/0a618be1fff86c863e2d558571bfc899.gif" px="40"> <h1 align="center">Laura Félix</h1>
 <p align="center">
   👩‍💻 Estudante de Desenvolvimento de Software e Multiplataforma <br/>
 </p>
