@@ -1,3 +1,4 @@
+<img src=".github/assets/kyubey.gif" width="80" heigh="80">
 <h1 align="center">Laura Félix</h1>
 <p align="center">
   👩‍💻 Estudante de Desenvolvimento de Software e Multiplataforma <br/>
