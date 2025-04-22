@@ -25,8 +25,8 @@
 ### 🌸 
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=laurafelix&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurafelix&layout=compact&theme=tokyonight&hide_border=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lauraflxx&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraflx&layout=compact&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
