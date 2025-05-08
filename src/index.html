@@ -1,170 +1,43 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Portfólio Laura</title>
-  <link rel="website icon" type="jpg"
-        href="https://i.pinimg.com/736x/86/8b/c3/868bc33851b1fc25814e85549e7c26fa.jpg">
-
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      scroll-behavior: smooth;
-      font-family: Georgia, 'Times New Roman', Times, serif;
-    }
-
-    body {
-      background-color: #f1edf6;
-      color: #080808;
-      line-height: 1.6;
-      display: flex;
-      flex-direction: column;
-      min-height: 100vh;
-    }
-
-    header {
-      background-color: #918dbe;
-      color: #fff;
-      padding: 20px 0;
-    }
-
-    .container {
-      width: 90%;
-      max-width: 1000px;
-      margin: 0 auto;
-    }
-
-    header h1 {
-      text-align: center;
-      margin-bottom: 10px;
-    }
-
-    nav ul {
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-      list-style: none;
-      flex-wrap: wrap;
-    }
-
-    nav ul li a {
-      color: #fff;
-      text-decoration: none;
-      font-weight: bold;
-      transition: color 0.3s;
-    }
-
-    nav ul li a:hover {
-      color: #1c558e;
-    }
-
-    main.container {
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-      gap: 40px;
-      padding: 40px 0;
-    }
-
-    section {
-      border-bottom: 1px solid #eee;
-    }
-
-    section h1, section h2 {
-      color: #6c63ff;
-      text-align: center;
-      margin-bottom: 20px;
-    }
-
-    section p, section li {
-      margin-bottom: 10px;
-    }
-
-    #currículo ul {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 15px;
-    }
-
-    .projeto {
-      background-color: #ced0f2;
-      padding: 20px;
-      border-radius: 10px;
-      margin-top: 20px;
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-    }
-
-    .projeto a {
-      align-self: flex-start;
-      background-color: #8a63ff;
-      color: #fff;
-      padding: 8px 15px;
-      text-decoration: none;
-      border-radius: 5px;
-      transition: background-color 0.3s;
-    }
-
-    .projeto a:hover {
-      background-color: #883a8f;
-    }
-
-    ul {
-      list-style: none;
-      padding-left: 0;
-    }
-
-    #contato ul {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 10px;
-    }
-
-    #contato a {
-      color: #764b77;
-      text-decoration: none;
-      font-weight: bold;
-    }
-
-    #contato a:hover {
-      text-decoration: underline;
-    }
-
-    footer {
-      background-color: #918dbe;
-      color: #fff;
-      text-align: center;
-      padding: 15px 0;
-      margin-top: auto;
-    }
-  </style>
+  <link rel="website icon" type="jpg" href="https://i.pinimg.com/736x/3b/98/20/3b98200f07226dfcb0d34d70e7ee22f0.jpg">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Quicksand:wght@300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-   <header>
-    <div class="container" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-      <h1 style="margin: 0;">Portfólio Acadêmico de Laura</h1>
+
+  <section id="inicio">
+    <div>
+      <div class="foto">
+        <img src="ImagemPessoal" alt="Foto">
+      </div>
+      <h1>Olá, seja bem-vindo ao meu portfólio!</h1>
+    </div>
+  </section>
+
+  <header>
+    <div class="container">
+      <h1>Laura Félix de Paula</h1>
       <nav>
         <ul>
           <li><a href="#sobre">Sobre</a></li>
           <li><a href="#currículo">Currículo</a></li>
           <li><a href="#projetos">Projetos</a></li>
+          <li><a href="#skills">Skills</a></li>
           <li><a href="#contato">Contato</a></li>
         </ul>
       </nav>
     </div>
   </header>
-  
 
   <main class="container">
     <section id="sobre">
-      <h1>Laura Félix de Paula</h1>
-      <p><b>Formação:</b> Estudante de Desenvolvimento de Software e Multiplataforma - Fatec SJC </p>
-      <p><b>Objetivo:</b> Sou estudante com foco em aprender, aplicar novas tecnologias e aprimorar sempre minhas habilidades técnicas e práticas.</p>
+      <h1>Sobre mim</h1>
+      <p><b>Estudante de Desenvolvimento de Software em formação, com foco no aprimoramento contínuo...</b></p>
     </section>
 
     <section id="currículo">
@@ -172,13 +45,12 @@
       <ul>
         <li><b>Formação Acadêmica:</b> Cursando Desenvolvimento de Software e Multiplataforma - FATEC-SJC (2025-2027)</li>
         <li><b>Certificações:</b>
-          <p> &diams; Cerificação em Assistente Administrativo - Cebrac </p>
-          <p> &diams; Certificação em Assistente Administrativo Área Tecnológica - Cebrac </p>
-          <p> &diams; Certificação em Assistente Administrativo Área Pessoal - Cebrac</p>
-          <p> &diams; Certificação em FOCO: Finanças, Organização, Criatividade e Oratória - Conquer </p>
-          <p> &diams; Certificação em IA para Todos - StartSe </p>
+          <p>&diams; Assistente Administrativo - Cebrac</p>
+          <p>&diams; Área Tecnológica - Cebrac</p>
+          <p>&diams; Área Pessoal - Cebrac</p>
+          <p>&diams; FOCO: Finanças, Organização, Criatividade e Oratória - Conquer</p>
+          <p>&diams; Figma em 2 dias - Ebac </p>
         </li>
-        <li><b>Competências Técnicas:</b> HTML, CSS</li>
       </ul>
     </section>
 
@@ -187,26 +59,51 @@
       <div class="projeto">
         <h3>Projeto 1: API </h3>
         <p><b>Problema:</b> Aplicação web para análise dos dados de exportação e importação do Estado de São Paulo.</p>
-        <p><b>Solução:</b> Pesquisas intuitivas, com ferramentas de consulta de forma mais acessível e otimizada para que todos possam ter acesso a informação em um site compreensivo e simplificado.</p>
-        <p><b>Participação:</b> Construção e análise de ártigos e Front-end</p>
-        <p><b>Tecnologias:</b> HTML, CSS, JavaScript, Google Colab, Figma, VSCode, Python...</p>
+        <p><b>Solução:</b> Pesquisas intuitivas, com ferramentas de consulta de forma mais acessível e otimizada.</p>
         <a href="https://github.com/Templasan/DSM---Projeto-de-API-1-Semestre" target="_blank">Veja o projeto</a>
+      </div>
+    </section>
+
+    <section id="skills">
+      <h2>Soft e Hard Skills</h2>
+      <div class="skills">
+        <div>
+          <h3>Hard Skills</h3>
+          <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+            <li>Figma</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Soft Skills</h3>
+          <ul>
+            <li>Organização</li>
+            <li>Comunicação</li>
+            <li>Proatividade</li>
+            <li>Trabalho em equipe</li>
+            <li>Empatia</li>
+          </ul>
+        </div>
       </div>
     </section>
 
     <section id="contato">
       <h2>Contato</h2>
       <ul>
+        <li><a href="mailto:lauriinha686@gmail.com">Email</a></li>
         <li><a href="https://www.linkedin.com/in/laura-f-382985351?" target="_blank">LinkedIn</a></li>
         <li><a href="https://github.com/lauraflx" target="_blank">GitHub</a></li>
-        <li><a href="mailto:lauriinha686@gmail.com">Email</a></li>
       </ul>
     </section>
   </main>
 
   <footer>
-    <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" alt="gif" style="width: 100px; display: block; margin: 5px auto 0;">
-    <p>&copy; 2025 Laura - Todos os direitos reservados.</p>
+    <p>Desenvolvido por Laura</p>
+    <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" alt="Logo">
   </footer>
+
 </body>
 </html>
