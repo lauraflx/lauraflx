@@ -4,6 +4,11 @@
 </div>
 
 ---
+### 🌐 Meu portfólio online
+
+Acesse aqui: [https://lauraflx.github.io/lauraflx/](https://lauraflx.github.io/lauraflx/) 
+
+---
 
 ### 🌷 Sobre mim
 
@@ -28,12 +33,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lauraflx&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraflx&layout=compact&theme=tokyonight&hide_border=false"/>
 </p>
-
----
-
-### 💖 Projetos 
-
-✨ Em breve 
 
 ---
 
