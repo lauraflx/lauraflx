@@ -6,11 +6,16 @@
 
 ---
 
+### 💻 Portfólio 
+- [Veja meu portfólio!](https://lauraflx.vercel.app/)
+
+---
+
 ### 🌷 Sobre mim
 
-- 🎓 Cursando **Desenvolvimento de Software Multiplataforma**  
-- 🛠️ Explorando **Front-end e Back-end**
-- 💡 Aprendendo novas tecnologias para transformar ideias em projetos reais  
+- Cursando **Desenvolvimento de Software Multiplataforma**  
+- Explorando **Front-end e Back-end**
+- Aprendendo novas tecnologias para transformar ideias em projetos reais  
 
 ---
 
