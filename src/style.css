@@ -175,3 +175,21 @@ skills h3 {
     margin-top: 10px;
     width: 80px;
   }
+
+  .link {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: #B554B5;
+    border: 1.5px solid #DD99D1;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+
+  .link:hover {
+    background-color: #F55D9C;
+    color: #ffffff;
+  }
