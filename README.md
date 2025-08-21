@@ -28,15 +28,6 @@
 
 ---
 
-### 🌸 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lauraflx&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraflx&layout=compact&theme=tokyonight&hide_border=false"/>
-</p>
-
----
-
 ### 🌈 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-f-382985351?)  
